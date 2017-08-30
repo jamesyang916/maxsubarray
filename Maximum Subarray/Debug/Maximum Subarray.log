@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\james\google drive\misc\c++\maximum subarray\maximum subarray\main.cpp(6): warning C4348: 'findCrossMax': redefinition of default parameter: parameter 2
+  c:\users\james\google drive\misc\c++\maximum subarray\maximum subarray\maxsubarray.h(10): note: see declaration of 'findCrossMax'
+c:\users\james\google drive\misc\c++\maximum subarray\maximum subarray\main.cpp(34): warning C4348: 'findMax': redefinition of default parameter: parameter 2
+  c:\users\james\google drive\misc\c++\maximum subarray\maximum subarray\maxsubarray.h(6): note: see declaration of 'findMax'
+  Maximum Subarray.vcxproj -> C:\Users\James\Google Drive\Misc\C++\Maximum Subarray\Debug\Maximum Subarray.exe
+  Maximum Subarray.vcxproj -> C:\Users\James\Google Drive\Misc\C++\Maximum Subarray\Debug\Maximum Subarray.pdb (Full PDB)
